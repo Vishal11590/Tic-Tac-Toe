@@ -1,4 +1,4 @@
-Tic-Tac-Toe
+
 It's a three-mode game implemented in C++.
 
 The three modes are as follows:
